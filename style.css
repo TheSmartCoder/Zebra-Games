@@ -1,0 +1,17 @@
+* {
+  background-color: black;
+}
+.header {
+  color: white;
+  text-align: right;
+}
+.submit {
+  color: white;
+}
+.w3-bar-item {
+  color: white;
+  background-color: gray;
+}
+a.button {
+  height: 10%;
+}
